@@ -1,1 +1,10 @@
-# Flutter-Team-Mail-list
+Yunpeng.Kong@partner.bmw.com
+suzhan.yu@partner.bmw.com
+jiajie.wang@lingyue-digital.com 
+Xiuping.Zhang@partner.bmw.com
+Ruisong.wang@bmw.com
+Xiaofeng.Shao@partner.bmw.com
+Liang.SL.Wang@partner.bmw.com
+Shuai.sh.wang@partner.bmw.com
+Baolin.Zhou@partner.bmw.com
+Haiyang.SUN@partner.bmw.com
